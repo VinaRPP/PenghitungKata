@@ -1,0 +1,34 @@
+Teks:
+Buat aplikasi yang menghitung jumlah kata ,
+karakter, dan kalimat dalam teks yang dimasukkan
+pengguna
+
+Tugas 5
+Aplikasi Penghitung Kata
+
+20
+Aplikasi Penghitung Kata
+1. Deskripsi Program:
+• Gunakan JTextArea dalam JScrollPane untuk input teks
+• Setelah menekan tombol Hitung, hasil perhitungan berupa jumlah
+kata dan karakter ditampilkan pada beberapa JLabel
+
+2. Komponen GUI: JFrame, JPanel, JLabel, JTextArea, JScrollPane, JButton
+3. Logika Program: Manipulasi string, Ekspresi reguler
+4. Events:
+• ActionListener untuk tombol Hitung
+
+• DocumentListener pada JTextArea untuk menghitung secara real-
+time
+
+5. Variasi:
+• Tambahkan fitur untuk menghitung jumlah kalimat dan paragraf
+• Implementasikan fungsi pencarian kata tertentu dalam teks
+• Sediakan opsi untuk menyimpan teks dan hasil perhitungan ke file
+
+Jumlah Kata : 113
+Jumlah Karakter : 690
+Jumlah Kalimat : 6
+Jumlah Paragraf : 26
+Kata yang Dicari : kata
+Jumlah Kata yang Dicari : 5

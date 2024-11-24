@@ -1,0 +1,15 @@
+Teks:
+writer.write("Teks:\n" + textArea.getText() + "\n\n");
+                writer.write("Jumlah Kata : " + labelKata.getText() + "\n");
+                writer.write("Jumlah Karakter : " + labelKarakter.getText() + "\n");
+                writer.write("Jumlah Kalimat : " + labelKalimat.getText() + "\n");
+                writer.write("Jumlah Paragraf : " + labelParagraf.getText() + "\n");
+                writer.write("Kata yang Dicari : " + textFieldCari.getText() + "\n");
+                writer.write("Jumlah Kata yang Dicari : " + labelHasilPencarian.getText() + "\n");
+
+Jumlah Kata : 56
+Jumlah Karakter : 418
+Jumlah Kalimat : 15
+Jumlah Paragraf : 7
+Kata yang Dicari : kata
+Jumlah Kata yang Dicari : 2
